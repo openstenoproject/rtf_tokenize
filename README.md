@@ -19,6 +19,10 @@ position = tokenizer.lnum, tokenizer.cnum
 
 ## Release history
 
+### 1.0.1
+
+* add copy of LICENSE.txt to distribution
+
 ### 1.0.0
 
 * first public release
